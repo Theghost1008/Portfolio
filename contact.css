@@ -1,0 +1,25 @@
+.contact{
+    display: flex;
+    gap: 60px;
+    font-size: 30px;
+    justify-content:flex-start;
+}
+.linked{
+    color: blue;
+}
+.mail{
+    text-decoration: none;
+    color: red;
+}
+.code{
+    color: #ac8d72;
+}
+.git{
+    color: black;
+}
+.get{
+    font-size: 35px;
+}
+html{
+    background-color: #E6E6FA;
+}
